@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lruNsEvNome2APju/1g3LXnX8KPMxI5niRXJL3ubRMwo9tBvZsXSGRYkizdM7g6j8S971Z6rmiW0bc9Dln3erg==",
+  "dgSpecHash": "E6sfadSyWcoZ1yJGclzeunwvgpBkCAHen5Q2k0lrJoPYiKWCXHBL4s/A5WKkhQI1dOve33TFyu4DvwaWnSnfug==",
   "success": true,
   "projectFilePath": "C:\\Users\\New\\Desktop\\WebsiteForRecipes\\WebsiteForRecipes\\recipeWebsite\\recipeWebsite\\recipeWebsite.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\New\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\New\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\New\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\New\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\New\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\New\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\New\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

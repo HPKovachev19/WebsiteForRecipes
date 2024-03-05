@@ -22,6 +22,16 @@ namespace recipeWebsite.Controllers
         {
             return View();
         }
+        
+        //GET RECIPES
+
+        /*
+         public async Task<IActionResult> Index(int pageNumber=1)
+        {
+            return View(await PaginatedList<Recipe>.CreateAsync(_context.Recipes, pageNumber, 5));
+        }
+         
+         */
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

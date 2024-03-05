@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using recipeWebsite.Data;
 
-namespace recipeWebsite
+namespace RecipeWebsite
 {
     public class Program
     {
